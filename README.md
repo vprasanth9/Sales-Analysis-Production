@@ -18,4 +18,4 @@ The top selling product is 'AAA Batteries'. The top selling products seem to hav
 Removed duplicate order ID to analyse which products are most sold together
 Created a grouped column
 Dropped the Duplicate order ID and plotted Pie chart.
-Analysed that the products Google Phone,USB-C Charging Cable are most sold together.
+Analysed that the products iPhone and Lightening charging cable (882 orders i.e 32.5% of the total sales) are most sold together.
